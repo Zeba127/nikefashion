@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&family=Poppins:ital,wght@0,500;1,400&family=Roboto+Slab&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.back-color{
+        background-color: #FFF9F4;
+        width: 1212px;
+        height: 600px;
+}
+.banner-img{
+    margin-left: 100px;
+    margin-right: px;
+    margin-top: 50px;
+    width: 407px;
+    height: 407px;
+    
+
+}
+.banner-info{
+    margin-left: 190px;
+    margin-right: 00px;
+    margin-top: 30px;
+    
+   
+}
+.nike-color{
+    color: #FA804C;
+    font-weight: 600;
+}
+.nike-head{
+    color: #363958;
+    font-weight: 600;
+}
+.nike-para{
+    color: #3E3E3E;
+    font-size:12px;
+}
+
